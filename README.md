@@ -5,8 +5,7 @@
 - 📫 How to reach me? Send a text.
 - I'm new here, but the energy isn't.
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thebasilugo&theme=darcula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&show_icons=true&count_private=true)
 
