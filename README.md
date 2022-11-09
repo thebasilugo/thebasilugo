@@ -5,6 +5,13 @@
 - 📫 How to reach me? Send a text.
 - I'm new here, but the energy isn't.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&show_icons=true&count_private=true)
