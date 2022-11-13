@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ugochukwu
-- 👀 I’m interested in FrontEnd development, Python and cybersecurity
+- 👀 I’m interested in FrontEnd development, Python and Cybersecurity
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on creative and tasking python projects.
-- 📫 How to reach me? Send a text.
-- I'm new here, but the energy isn't.
+- 💞️ I’m looking to collaborate on creative and tasking python projects, among others.
+- 📫 How to reach me? Probably a pull request :)
+- The energy isn't new, trust me. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=35&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
