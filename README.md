@@ -14,9 +14,9 @@
   See below for <i> more </i> information.
 </h5>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=35&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=35)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=35&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&&border_radius=35&show_icons=true&count_private=true)
 
