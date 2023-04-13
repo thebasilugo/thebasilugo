@@ -3,7 +3,7 @@
  <br>
   - 👀 I’m interested in FrontEnd development, Python and Cybersecurity
 <br>
- - 🌱 I’m currently finishing up on my frontend studies. One step at a time, I guess.
+ - 🌱 I’m currently finishing up on my front end studies. One step at a time, I guess. Less is more.
 <br>
   - 💞️ I’m looking to collaborate on creative and tasking python projects, among others.
 <br>
