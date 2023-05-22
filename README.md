@@ -1,15 +1,13 @@
   <h5>
-  - 👋 Hi, I’m Ugochukwu
+  - Hi, I’m Ugochukwu.
  <br>
-  - 👀 I’m interested in Frontend development, Python and Cybersecurity
+  - I’m interested in Web (Frontend) development.
 <br>
- - 🌱 I’m currently finishing up on my front end studies. One step at a time, I guess. Less is more.
+ - I’m currently studying JavaScript and building projects. Less is more.
 <br>
-  - 💞️ I’m looking to collaborate on creative and tasking python projects, among others.
+  - I’m looking to collaborate on creative and tasking projects, amongst others.
 <br>
-  - 📫 How to reach me? Probably a pull request :)
-<br>
-  - The energy isn't new, trust me. 
+  - How to reach me? Instagram, Twitter or a pull request :)
   <br> 
   See below for <i> more </i> information.
 </h5>
