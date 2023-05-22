@@ -1,7 +1,7 @@
   <h5>
   - 👋 Hi, I’m Ugochukwu
  <br>
-  - 👀 I’m interested in FrontEnd development, Python and Cybersecurity
+  - 👀 I’m interested in Frontend development, Python and Cybersecurity
 <br>
  - 🌱 I’m currently finishing up on my front end studies. One step at a time, I guess. Less is more.
 <br>
