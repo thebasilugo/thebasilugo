@@ -1,7 +1,7 @@
   <h5>
   - Hi, I’m Ugochukwu.
  <br>
-  - I’m interested in Web (Frontend) development.
+  - I’m interested in Web (frontend) development.
 <br>
  - I’m currently studying JavaScript and building projects. Less is more.
 <br>
