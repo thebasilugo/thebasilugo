@@ -64,3 +64,44 @@ You can click the Preview link to take a look at your changes.
 ⭐️ [Your Profile Website](https://www.your-website.com)
 
 --->
+
+
+
+<!-- 
+
+templates
+
+# Solar System Interactive Website
+
+Welcome to the Solar System Interactive Website, a fun and educational project that allows you to explore the solar system and learn more about each of its planets. With interactive features, you can view information about each planet, pause and play the planet transitions, and toggle the planet list.
+
+## Table of Contents
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+You can access the live demo of the Solar System Interactive Website by following this link: [Solar System Website](https://your-website-url-here)
+
+## Features
+
+- Interactive representation of the solar system with planets and the sun.
+- Planet details displayed upon clicking a planet's name in the list.
+- Pause and play button to control planet transitions.
+- Hamburger menu for easy access to the planet list.
+- User-friendly design and animations for an engaging experience.
+
+## Getting Started
+
+To set up this project locally or on your own website, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/solar-system-website.git
+
+--->
