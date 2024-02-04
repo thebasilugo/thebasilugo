@@ -1,5 +1,5 @@
 # Hi, I’m Ugochukwu.
-I’m interested in *Web (frontend) development*.
+I’m interested in Web *(frontend)* development.
 <br />
 I’m currently studying **JavaScript** and building projects.
 <br />
