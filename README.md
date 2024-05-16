@@ -1,7 +1,7 @@
 # Hi, I’m Ugochukwu.
-I’m interested in Web *(frontend)* development.
+Welcome to my GitHub profile! I'm a JavaScript Developer.
 <br />
-I’m currently studying **JavaScript** and building projects.
+I’m currently studying **React/Redux** and building projects.
 <br />
 I’m also looking to collaborate on creative and tasking projects, amongst others.
 <br />
