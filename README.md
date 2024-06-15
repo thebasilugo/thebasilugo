@@ -7,22 +7,22 @@ Currently, I'm mastering the art of **React/Redux** and building exciting projec
 
 I'm open to collaborating on creative and challenging projects. Teamwork rocks! Together, we can create amazing things.
 
-## Skills
+## Skills?
 - JavaScript
 - React/Redux
 - HTML/CSS
 - Git and GitHub
 
-## I’m currently learning
+## I’m currently learning?
 - Advanced React Patterns
 - Node.js
 - TypeScript
 
-## I’m looking for
+## I’m looking for ...?
 - Exciting projects to collaborate on
 - Opportunities to mentor and be mentored
 
-## How to reach me
+## How to reach me?
 Feel free to reach out if you have any questions, want to discuss a project, or just say hi!
 Don't be a stranger.
 
