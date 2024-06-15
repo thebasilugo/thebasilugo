@@ -39,10 +39,10 @@ Thanks for stopping by!
 <img height=200 align="center" src="https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=8&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&&border_radius=8&show_icons=true&count_private=true" />
 </a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&&border_radius=8&show_icons=true&count_private=true)
+![Github stats]()
 
 
 <!---
