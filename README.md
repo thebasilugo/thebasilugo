@@ -32,24 +32,15 @@ Don't be a stranger.
 
 Thanks for stopping by!
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a> -->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
+</a>
+<a href="https://git.io/streak-stats">
+<img height=200 align="center" src="https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=8&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&&border_radius=8&show_icons=true&count_private=true)
 
