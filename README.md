@@ -1,13 +1,36 @@
-# Hi, I’m Ugochukwu.
-Welcome to my GitHub profile! I'm a JavaScript Developer.
-<br />
-I’m currently studying **React/Redux** and building projects.
-<br />
-I’m also looking to collaborate on creative and tasking projects, amongst others.
-<br />
-How to reach me? [Instagram](https://www.instagram.com/thebasilugo/), [Twitter](https://twitter.com/thebasilugo/) or, send a [mail](mailto:thebasilugo2@gmail.com) :) 
+# Hello, World! I'm Ugochukwu.
 
-<hr />
+I'm a JavaScript Developer
+and I'm eager to learn more and create innovative projects.
+
+Currently, I'm mastering the art of **React/Redux** and building exciting projects that <em>actually</em> solve real-world problems, or at least tries to.
+
+I'm open to collaborating on creative and challenging projects. Teamwork rocks! Together, we can create amazing things.
+
+## Skills
+- JavaScript
+- React/Redux
+- HTML/CSS
+- Git and GitHub
+
+## I’m currently learning
+- Advanced React Patterns
+- Node.js
+- TypeScript
+
+## I’m looking for
+- Exciting projects to collaborate on
+- Opportunities to mentor and be mentored
+
+## How to reach me
+Feel free to reach out if you have any questions, want to discuss a project, or just say hi!
+Don't be a stranger.
+
+- [Instagram](https://www.instagram.com/thebasilugo/)
+- [Twitter](https://twitter.com/thebasilugo/)
+- [Send a mail](mailto:thebasilugo2@gmail.com)
+
+Thanks for stopping by!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 
