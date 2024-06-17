@@ -1,13 +1,14 @@
 # Hello, World! I'm Ugochukwu.
 
-<!-- [![Ugo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![Ugo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thebasilugo)](https://github.com/anuraghazra/github-readme-stats) -->
 
 I'm a JavaScript Developer
 and I'm eager to learn more and create innovative projects.
 
 Currently, I'm mastering the art of **React/Redux** and building exciting projects that <em>actually</em> solve real-world problems, or at least tries to.
 
-I'm open to collaborating on creative and challenging projects. Teamwork rocks! Together, we can create amazing things.
+I'm open to collaborating on creative and challenging projects, because teamwork rocks! 
+Together, we can create amazing things.
 
 ## Skills?
 - JavaScript
