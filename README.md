@@ -1,5 +1,7 @@
 # Hello, World! I'm Ugochukwu.
 
+<!-- [![Ugo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)-->
+
 I'm a JavaScript Developer
 and I'm eager to learn more and create innovative projects.
 
