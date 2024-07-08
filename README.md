@@ -5,7 +5,7 @@
 I'm a JavaScript Developer
 and I'm eager to learn more and create innovative projects.
 
-Currently, I'm mastering the art of **React/Redux** and building exciting projects that <em>actually</em> solve real-world problems, or at least tries to.
+Currently, I'm mastering the art of **React TypeScript** and building exciting projects that <em>actually</em> solve real-world problems, or at least tries to.
 
 I'm open to collaborating on creative and challenging projects, because teamwork rocks! 
 Together, we can create amazing things.
