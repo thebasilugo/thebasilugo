@@ -12,6 +12,7 @@ Together, we can create amazing things.
 
 ## Skills?
 - JavaScript
+- TypeScript
 - React/Redux
 - HTML/CSS
 - Git and GitHub
