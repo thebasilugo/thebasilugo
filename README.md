@@ -1,9 +1,8 @@
-# Hello, World! I'm Ugochukwu.
+# I'm Ugochukwu.
 
 <!-- [![Ugo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thebasilugo)](https://github.com/anuraghazra/github-readme-stats) -->
 
-I'm a JavaScript Developer
-and I'm eager to learn more and create innovative projects.
+A JavaScript Developer, that's eager to learn more and create innovative projects.
 
 Currently, I'm mastering the art of **React TypeScript** and building exciting projects that <em>actually</em> solve real-world problems, or at least tries to.
 
