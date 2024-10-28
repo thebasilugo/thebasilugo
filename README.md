@@ -1,135 +1,40 @@
-# I'm Ugochukwu.
+# Hey there, I'm Ugochukwu 👋
 
-<!-- [![Ugo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thebasilugo)](https://github.com/anuraghazra/github-readme-stats) -->
-
-A JavaScript Developer, that's eager to learn more and create innovative projects.
-
-Currently, I'm mastering the art of **React TypeScript** and building exciting projects that <em>actually</em> solve real-world problems, or at least tries to.
-
-I'm open to collaborating on creative and challenging projects, because teamwork rocks! 
-Together, we can create amazing things.
-
-## Skills?
-- JavaScript
-- TypeScript
-- React/Redux
-- HTML/CSS
-- Git and GitHub
-
-## I’m currently learning?
-- Advanced React Patterns
-- Node.js
-- TypeScript
-
-## I’m looking for ...?
-- Exciting projects to collaborate on
-- Opportunities to mentor and be mentored
-
-## How to reach me?
-Feel free to reach out if you have any questions, want to discuss a project, or just say hi!
-Don't be a stranger.
-
-- [Instagram](https://www.instagram.com/thebasilugo/)
-- [Twitter](https://twitter.com/thebasilugo/)
-- [Send a mail](mailto:thebasilugo2@gmail.com)
-
-Thanks for stopping by!
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
-</a>
-<!-- <a href="https://git.io/streak-stats">
-<img height=200 align="center" src="https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=8&date_format=j%20M%5B%20Y%5D" />
-</a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&&border_radius=8&show_icons=true&count_private=true" />
-</a>
-
-<!---
-thebasilugo/thebasilugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!---
-# Hi there, I'm [Your Name] 👋
-
-🚀 Welcome to my GitHub profile! I'm a [Your Profession] and [A Few Key Skills].
-
-📫 You can reach me at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-handle).
-
-## 🔧 Skills
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-
-## 🌟 Projects
-
-- [Project 1](https://github.com/your-project1): Brief project description.
-- [Project 2](https://github.com/your-project2): Brief project description.
-
-## 📝 Blog
-
-- Check out my latest blog posts on [Medium](https://medium.com/@your-username).
-
-## 📚 Education
-
-- [Your Degree], [University]
-- [Relevant Certification], [Certification Authority]
-
-## 🌱 I'm currently learning
-
-- [Skill or Technology]
-
-## 💬 Let's connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Email](mailto:your-email@example.com)
+I'm a passionate **JavaScript Developer** on a journey to master **React** and **TypeScript** while creating innovative projects that aim to **solve real-world problems**. From crafting dynamic frontends to exploring the depths of backend logic, I’m always ready to take on challenges and grow my skills. Let's collaborate and build something amazing!
 
 ---
 
-⭐️ [Your Profile Website](https://www.your-website.com)
+<a href="https://github.com/thebasilugo">
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&border_radius=8&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/thebasilugo">
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
+</a>
 
---->
+---
 
+## 🚀 About Me
+- 🔍 Currently focused on mastering **React TypeScript** and building real-world applications.
+- 🌱 Exploring **Advanced React Patterns** and deepening my backend knowledge with **Node.js**.
+- 💬 Always open to new **collaborations** and learning opportunities. Together, we can push boundaries and create impact!
 
+## 🛠 Skills
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React, Redux
+- **Tools:** HTML/CSS, Git & GitHub
 
-<!-- 
+## 🌱 Currently Learning
+- **Advanced React Patterns**
+- **Node.js**
+- **TypeScript** (furthering my expertise)
 
-templates
+## 🤝 Let’s Connect!
+I’m open to collaborating on unique projects and sharing knowledge with fellow developers. Whether you want to discuss a project idea or just say hi, feel free to reach out!
 
-# Solar System Interactive Website
+- [Instagram](https://www.instagram.com/thebasilugo/)
+- [Twitter](https://twitter.com/thebasilugo/)
+- [Email](mailto:thebasilugo2@gmail.com)
 
-Welcome to the Solar System Interactive Website, a fun and educational project that allows you to explore the solar system and learn more about each of its planets. With interactive features, you can view information about each planet, pause and play the planet transitions, and toggle the planet list.
+---
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-
-You can access the live demo of the Solar System Interactive Website by following this link: [Solar System Website](https://your-website-url-here)
-
-## Features
-
-- Interactive representation of the solar system with planets and the sun.
-- Planet details displayed upon clicking a planet's name in the list.
-- Pause and play button to control planet transitions.
-- Hamburger menu for easy access to the planet list.
-- User-friendly design and animations for an engaging experience.
-
-## Getting Started
-
-To set up this project locally or on your own website, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/solar-system-website.git
-
---->
+Thanks for visiting my GitHub profile! Let's build something incredible. 🚀
