@@ -1,192 +1,117 @@
-# Ugochukwu 
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Ugochukwu Basil - Frontend Developer Banner" style="border-radius: 12px;" />
+</p>
 
-**JavaScript Developer** focused on creating innovative, real-world applications with a strong foundation in **React** and **TypeScript**. I’m dedicated to refining my skills and exploring cutting-edge tech to build functional and impactful projects. Open to collaborations that challenge and expand my expertise.
+<h1 align="center">
+ Hey, I’m Ugochukwu
+</h1>
+
+<p align="center">
+  <em>Front-end developer • Cybersecurity enthusiast • Storyteller</em>  
+</p>
+
+Passionate about building responsive, performant, and accessible web experiences using **React**, **Next.js**, **TypeScript**, and **TailwindCSS**.
+
+I enjoy designing with systems in mind—whether it’s UI architecture, application state, or secure flows. My projects are practical, user-focused, and built with scalability in mind.
+
+Currently exploring how great interfaces meet strong security.
+
+> _“Great software should feel invisible—secure, seamless, and built for humans.”_  
+> — Ugochukwu
 
 ---
 
-<a href="https://github.com/thebasilugo">
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&border_radius=8&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/thebasilugo">
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
-</a>
+## 🧠 About Me
+
+Ugochukwu Basil is a front-end developer who cares deeply about detail, performance, and building interfaces that feel as good as they look.  
+He combines a sharp eye for design with a structured approach to development, using tools like **React**, **Next.js**, **TypeScript**, and **TailwindCSS** to bring products to life.
+
+He’s also a **cybersecurity enthusiast**, regularly studying how frontend applications interact with the web securely—especially how to prevent common vulnerabilities while maintaining usability.  
+When he’s not coding, he’s crafting stories—both through clean UI and written word.
+
+### 🔍 What I Love Doing
+
+- Architect reusable components and clean design systems
+- Build tools that simplify workflows or solve real user problems
+- Explore how security and frontend best practices intersect
+- Collaborate with others on creative and meaningful projects
 
 ---
 
-## About Me
-Currently developing my expertise in **React TypeScript** by building complex projects that are practical and scalable. I’m motivated by projects that solve real-world problems and am actively learning **Advanced React Patterns** and **Node.js** to deepen my technical skill set.
+## 🌟 Featured Projects
+
+| Project                                                                    | Description                                                                                               |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [**StreamR**](https://github.com/thebasilugo/streamr)                      | A real-time movie streaming platform powered by Firebase authentication and media reviews.                |
+| [**CheckpointRide**](https://github.com/thebasilugo/checkpointride)        | Route and logistics planner with mapping features and scheduling UI.                                      |
+| [**KicksConfetti**](https://github.com/thebasilugo/kicksconfetti)          | E-commerce app built for sneaker drops with secure payments and advanced filtering.                       |
+| [**TaskFlow**](https://github.com/thebasilugo/taskflow)                    | Project/task manager with real-time updates and drag-and-drop support.                                    |
+| [**Cyber Attack Detector**](https://ieeexplore.ieee.org/document/10124506) | Final year research project – Hybrid CNN-MLP model detecting anomalies in network traffic (95% accuracy). |
+
+---
+
+## 🛠 Tech & Tools
+
+**Languages**  
+JavaScript • TypeScript • HTML5 • CSS3 • Python
+
+**Frameworks & Libraries**  
+React • Next.js • TailwindCSS • Firebase • Firestore • Bootstrap • Material UI
+
+**Tools & Platforms**  
+VS Code • Git/GitHub • Figma • CapCut • Canva • REST APIs
+
+**Learning**  
+Secure front-end architecture • Node.js • Advanced React patterns
+
+---
+
+## 🎓 Academic Background
+
+**BSc. Computer Science** – Landmark University
+
+<!-- Final GPA: **4.07 / 5.00**  -->
+
+Published Research: _Intrusion Detection Systems Using ML_ – [IEEE Xplore](https://ieeexplore.ieee.org/document/10124506)
+
+---
+
+## 📬 Let’s Connect
+
+I’m always open to:
+
+- Front-end development challenges
+- Secure web design and accessibility
+- Teaching/mentorship opportunities
+- Collaborative project building
+
+Don't be a stranger, Reach out!.
+[Email](mailto:basilugo2@gmail.com) | [LinkedIn](https://linkedin.com/in/thebasilugo) | [Portfolio](https://thebasilugo.github.io/) | [Twitter](https://twitter.com/thebasilugo) | [instagram](https://instagram.com/thebasilugo)
+
+---
 
 <!--
-## Projects
-Here are some of the most impactful projects I’ve worked on:
+## 📈 GitHub Stats
 
-- **[E-commerce Store](https://github.com/thebasilugo/e-commerce-store)**  
-   Full-stack application using **Next.js**, **TypeScript**, **Firebase**, and **Firestore**, focused on state management, complex queries, and AI-powered recommendations.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thebasilugo&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=tokyonight&border_radius=10" height="180" />
+</div>
 
-- **[Countdown App](https://github.com/thebasilugo/countdown-app)**  
-   A multi-countdown app with history tracking and calendar integration, designed to help users manage time effectively.
+---
 
-- **[Cyber Security App](https://github.com/thebasilugo/cyber-security-app)**  
-   Focuses on encryption and safe password generation, featuring AI-driven suggestions for memorable yet secure passwords.
+## 🟩 GitHub Contribution Heatmap
 
-- **[Language Learner](https://github.com/thebasilugo/language-learner)**  
-   Language learning platform using adaptive AI to adjust content difficulty based on the user’s progress.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thebasilugo&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
+## 🖼️ Personal Banner
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thebasilugo/thebasilugo/main/assets/thebasilugo-banner.png" alt="thebasilugo banner" style="max-width: 100%;" />
+</div>
 -->
-
-## Skills
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: React, Redux, Next.js
-- **Tools**: HTML/CSS, Git/GitHub, Firebase, Firestore
-
-## Currently Learning
-- Advanced React Patterns
-- Node.js
-- TypeScript (advanced)
-
-## Get in Touch
-I’m always interested in joining exciting projects or connecting with fellow developers. Feel free to reach out if you’d like to discuss a potential collaboration or ask about my projects.
-
-- [Email](mailto:basilugo2@gmail.com)
-- [Instagram](https://www.instagram.com/thebasilugo/)
-- [LinkedIn](https://www.linkedin.com/in/thebasilugo/)
-- [Twitter](https://twitter.com/thebasilugo/)
-
----
-
-Thanks for stopping by, and I look forward to connecting!
-
-<!-- # I'm Ugochukwu.
-
- [![Ugo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thebasilugo)](https://github.com/anuraghazra/github-readme-stats) 
-
-A JavaScript Developer, that's eager to learn more and create innovative projects.
-
-Currently, I'm mastering the art of **React TypeScript** and building exciting projects that <em>actually</em> solve real-world problems, or at least tries to.
-
-I'm open to collaborating on creative and challenging projects, because teamwork rocks! 
-Together, we can create amazing things.
-
-## Skills?
-- JavaScript
-- TypeScript
-- React/Redux
-- HTML/CSS
-- Git and GitHub
-
-## I’m currently learning?
-- Advanced React Patterns
-- Node.js
-- TypeScript
-
-## I’m looking for ...?
-- Exciting projects to collaborate on
-- Opportunities to mentor and be mentored
-
-## How to reach me?
-Feel free to reach out if you have any questions, want to discuss a project, or just say hi!
-Don't be a stranger.
-
-- [Instagram](https://www.instagram.com/thebasilugo/)
-- [Twitter](https://twitter.com/thebasilugo/)
-- [Send a mail](mailto:thebasilugo2@gmail.com)
-
-Thanks for stopping by!
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebasilugo&layout=compact&theme=vision-friendly-dark&border_radius=8" />
-</a>
-<!-- <a href="https://git.io/streak-stats">
-<img height=200 align="center" src="https://streak-stats.demolab.com?user=thebasilugo&theme=Javascript-dark&border_radius=8&date_format=j%20M%5B%20Y%5D" />
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thebasilugo&theme=highcontrast&&border_radius=8&show_icons=true&count_private=true" />
-</a>
-
-<!---
-thebasilugo/thebasilugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!---
-# Hi there, I'm [Your Name] 👋
-
-🚀 Welcome to my GitHub profile! I'm a [Your Profession] and [A Few Key Skills].
-
-📫 You can reach me at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-handle).
-
-## 🔧 Skills
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-
-## 🌟 Projects
-
-- [Project 1](https://github.com/your-project1): Brief project description.
-- [Project 2](https://github.com/your-project2): Brief project description.
-
-## 📝 Blog
-
-- Check out my latest blog posts on [Medium](https://medium.com/@your-username).
-
-## 📚 Education
-
-- [Your Degree], [University]
-- [Relevant Certification], [Certification Authority]
-
-## 🌱 I'm currently learning
-
-- [Skill or Technology]
-
-## 💬 Let's connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Email](mailto:your-email@example.com)
-
----
-
-⭐️ [Your Profile Website](https://www.your-website.com)
-
---->
-
-
-
-<!-- 
-
-templates
-
-# Solar System Interactive Website
-
-Welcome to the Solar System Interactive Website, a fun and educational project that allows you to explore the solar system and learn more about each of its planets. With interactive features, you can view information about each planet, pause and play the planet transitions, and toggle the planet list.
-
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-
-You can access the live demo of the Solar System Interactive Website by following this link: [Solar System Website](https://your-website-url-here)
-
-## Features
-
-- Interactive representation of the solar system with planets and the sun.
-- Planet details displayed upon clicking a planet's name in the list.
-- Pause and play button to control planet transitions.
-- Hamburger menu for easy access to the planet list.
-- User-friendly design and animations for an engaging experience.
-
-## Getting Started
-
-To set up this project locally or on your own website, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/solar-system-website.git
-
---->
