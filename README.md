@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Ugochukwu Basil - Frontend Developer Banner" style="border-radius: 12px;" />
+  <img src="./banner.png" alt="Ugochukwu Basil - Frontend Developer Banner" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">
