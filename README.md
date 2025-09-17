@@ -43,11 +43,17 @@ When he’s not coding, he’s crafting stories—both through clean UI and writ
 
 | Project                                                                    | Description                                                                                               |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [**SaveStreak**](https://savestreakbyhim.vercel.app)                       | A gamified personal savings tracker that motivates users with streaks, color states, and offline sync.    |
+| [**PulseCheck**](https://pulsecheckbyhim.vercel.app)                       | A mental health & productivity tracker that visualizes emotional trends and daily focus patterns.         |
+| [**AutoCV**](https://autocvbyhim.vercel.app)                               | A minimalist resume builder that generates sleek, professional CVs from structured user input.            |
+| [**Cyber Attack Detector**](https://ieeexplore.ieee.org/document/10124506) | Final year research project – Hybrid CNN-MLP model detecting anomalies in network traffic (95% accuracy). |
+
+<!--
 | [**StreamR**](https://github.com/thebasilugo/streamr)                      | A real-time movie streaming platform powered by Firebase authentication and media reviews.                |
 | [**CheckpointRide**](https://github.com/thebasilugo/checkpointride)        | Route and logistics planner with mapping features and scheduling UI.                                      |
 | [**KicksConfetti**](https://github.com/thebasilugo/kicksconfetti)          | E-commerce app built for sneaker drops with secure payments and advanced filtering.                       |
 | [**TaskFlow**](https://github.com/thebasilugo/taskflow)                    | Project/task manager with real-time updates and drag-and-drop support.                                    |
-| [**Cyber Attack Detector**](https://ieeexplore.ieee.org/document/10124506) | Final year research project – Hybrid CNN-MLP model detecting anomalies in network traffic (95% accuracy). |
+-->
 
 ---
 
@@ -71,8 +77,6 @@ Secure front-end architecture • Node.js • Advanced React patterns
 
 **BSc. Computer Science** – Landmark University
 
-<!-- Final GPA: **4.07 / 5.00**  -->
-
 Published Research: _Intrusion Detection Systems Using ML_ – [IEEE Xplore](https://ieeexplore.ieee.org/document/10124506)
 
 ---
@@ -86,8 +90,8 @@ I’m always open to:
 - Teaching/mentorship opportunities
 - Collaborative project building
 
-Don't be a stranger, Reach out!.
-[Email](mailto:basilugo2@gmail.com) | [LinkedIn](https://linkedin.com/in/thebasilugo) | [Portfolio](https://thebasilugo.github.io/) | [Twitter](https://twitter.com/thebasilugo) | [instagram](https://instagram.com/thebasilugo)
+Don't be a stranger, Reach out!  
+[Email](mailto:basilugo2@gmail.com) | [LinkedIn](https://linkedin.com/in/thebasilugo) | [Portfolio](https://thebasilugo.github.io/) | [Twitter](https://twitter.com/thebasilugo) | [Instagram](https://instagram.com/thebasilugo)
 
 ---
 
