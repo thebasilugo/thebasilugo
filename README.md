@@ -41,18 +41,18 @@ When he’s not coding, he’s crafting stories—both through clean UI and writ
 
 ## 🌟 Featured Projects
 
-| Project                                                                    | Description                                                                                               |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [**SaveStreak**](https://savestreakbyhim.vercel.app)                       | A gamified personal savings tracker that motivates users with streaks, color states, and offline sync.    |
-| [**PulseCheck**](https://pulsecheckbyhim.vercel.app)                       | A mental health & productivity tracker that visualizes emotional trends and daily focus patterns.         |
-| [**AutoCV**](https://autocvbyhim.vercel.app)                               | A minimalist resume builder that generates sleek, professional CVs from structured user input.            |
-| [**Cyber Attack Detector**](https://ieeexplore.ieee.org/document/10124506) | Final year research project – Hybrid CNN-MLP model detecting anomalies in network traffic (95% accuracy). |
+| Project                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Description                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [**SaveStreak**](https://savestreakbyhim.vercel.app)[![Live](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://savestreakbyhim.vercel.app) [![Built with](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  | Gamified personal savings tracker that motivates users with streaks, color states, and offline sync. |
+| [**PulseCheck**](https://pulsecheckbyhim.vercel.app)[![Live](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pulsecheckbyhim.vercel.app) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | Mental health & productivity tracker that visualizes emotional trends and daily focus patterns.      |
+| [**AutoCV**](https://autocvbyhim.vercel.app)[![Live](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://autocvbyhim.vercel.app) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)                 | Minimalist resume builder that generates sleek, professional CVs from structured user input.         |
+| [**Cyber Attack Detector**](https://ieeexplore.ieee.org/document/10124506)[![Research](https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10124506) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)                                                                                               | Academic project — Hybrid CNN-MLP model detecting anomalies in network traffic (95% accuracy).       |
 
 <!--
-| [**StreamR**](https://github.com/thebasilugo/streamr)                      | A real-time movie streaming platform powered by Firebase authentication and media reviews.                |
-| [**CheckpointRide**](https://github.com/thebasilugo/checkpointride)        | Route and logistics planner with mapping features and scheduling UI.                                      |
-| [**KicksConfetti**](https://github.com/thebasilugo/kicksconfetti)          | E-commerce app built for sneaker drops with secure payments and advanced filtering.                       |
-| [**TaskFlow**](https://github.com/thebasilugo/taskflow)                    | Project/task manager with real-time updates and drag-and-drop support.                                    |
+| [**StreamR**](https://github.com/thebasilugo/streamr) | A real-time movie streaming platform powered by Firebase authentication and media reviews. |
+| [**CheckpointRide**](https://github.com/thebasilugo/checkpointride) | Route and logistics planner with mapping features and scheduling UI. |
+| [**KicksConfetti**](https://github.com/thebasilugo/kicksconfetti) | E-commerce app built for sneaker drops with secure payments and advanced filtering. |
+| [**TaskFlow**](https://github.com/thebasilugo/taskflow) | Project/task manager with real-time updates and drag-and-drop support. |
 -->
 
 ---
@@ -75,8 +75,7 @@ Secure front-end architecture • Node.js • Advanced React patterns
 
 ## 🎓 Academic Background
 
-**BSc. Computer Science** – Landmark University
-
+**BSc. Computer Science** – Landmark University  
 Published Research: _Intrusion Detection Systems Using ML_ – [IEEE Xplore](https://ieeexplore.ieee.org/document/10124506)
 
 ---
